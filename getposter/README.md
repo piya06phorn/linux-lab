@@ -1,21 +1,13 @@
 # getposter
 
-get poster
+    $ cd getposter
+    $ git clone https://github.com/piya06phorn/linux-lab.git
+    $ pip install -U --user .
+    $ getposter ตามด้วยชือโปสเตอร์ที่เราจะดึงมา
+  อ้างอิงรูปโปสเตอรืจากเว็บนี้  
+ https://pantip.com/topic/32867492
+    
 
 
-# Installation
 
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
-
-Simply run:
-
-    $ pipsi install .
-
-
-# Usage
-
-To use it:
-
-    $ getposter --help
 
